@@ -1,0 +1,49 @@
+.content{
+	list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+	padding: 20px;
+	margin-left: 20px;
+
+}
+.movie_details{
+	text-align: left;
+}
+
+.icon_img{
+	width: 150px;
+	height: 150px;
+	float: left;
+	border-radius: 10px;
+}
+
+.back{
+	float: right;
+	background-color: #C70039;
+	border: 1px solid #C70039;
+	border-radius: 5px;
+	width: 100px;
+	color: white;
+	text-decoration: none;
+}
+
+.back:hover{
+	background-color: #EC1B34;
+	color: black;
+}
+
+
+.icon_style{
+  height:150px;
+  width:150px;
+  margin-top:20px;
+  margin-left:10px;
+  border-radius:15px;
+}
+
+.cover_style{
+  height:400px;
+  padding:3px;
+  width:100%;
+  border-radius: 15px;
+}

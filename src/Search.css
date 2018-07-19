@@ -1,0 +1,28 @@
+.jumbotron{
+margin-top: 20px;
+height: 350px;
+border-radius: 20px;
+margin-top: 15px;
+background-color: blue;
+box-shadow: 2px;
+background-image: url("./walls.jpg");
+box-shadow: 0 14px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+text-align: center;
+}
+
+.title{
+	color: white;
+}
+
+.search{
+	width: auto;
+	border-radius: 30px;
+	border: 2px solid white;
+	height: 40px;
+	outline: none;
+	padding: 10px;
+}
+
+h4,h6{
+	color:#C70039;
+}

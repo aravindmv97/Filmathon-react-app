@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 15px;
+  background: linear-gradient(to left, #900C3F , #900C3F, #C70039);
+  font-family: sans-serif;
+}
+
+.card{
+border-radius: 20px;
+box-shadow: 0 24px 28px 0 rgba(0, 0, 0, 0.2), 0 16px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.color{
+	 background: linear-gradient(to left, #C70039 , #900C3F, #900C3F);
+}

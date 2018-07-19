@@ -1,0 +1,66 @@
+.img{
+	width: 300px;
+	height: 300px;
+	float: left;
+	border-radius: 10px;
+}
+.box{
+	box-shadow: 0 24px 28px 0 rgba(0, 0, 0, 0.2), 0 16px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card_img{
+	width: 60px;
+	height: 60px;
+	float: left;
+	border-radius: 10px;
+}
+
+.cards:hover{
+	background-color: #BD0958;
+	color: white;
+}
+
+.content{
+	list-style-type: none;
+  margin: 0;
+  overflow: hidden;
+	padding: 20px;
+	margin-left: 20px;
+
+}
+.movie_list{
+	background-color: #C70039;
+	border: 1px blue black;
+	border-radius: 10px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.result_cards{
+	border-radius: 5px;
+	border: 1px solid #C70039;
+	background-color: #C70039;
+}
+.movie_details{
+	text-align: left;
+}
+.more{
+	background-color: white;
+	border: 2px solid #EC1B34;
+	border-radius: 5px;
+	width: 100px;
+	color: black;
+	text-decoration: none;
+	margin-bottom: 20px;
+}
+
+.more:hover{
+	background-color: #EC1B34;
+	color: white;
+}
+
+.mini_img{
+	width: 150px;
+	height: 150px;
+	border-radius: 10px;
+}
